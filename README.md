@@ -10,7 +10,7 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloFerroAlves&show_icons=true&theme=dark)
+
 
 
 
