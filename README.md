@@ -1,6 +1,4 @@
- ~~~c#
-  string eae = Como vai? 👋
-~~~
+
  ~~~c#
 - 🤷‍♂️ Atualmente estudando sobre programação 
  ~~~
