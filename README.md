@@ -1,7 +1,7 @@
 
 <h1>Olá, sou o Danilo Ferro </h1>
 <h2>Sobre mim:</h2>
-<hr>
+
 
 
 - 🤷‍♂️ Atualmente estudando sobre programação 
