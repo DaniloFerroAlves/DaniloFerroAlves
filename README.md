@@ -12,7 +12,7 @@
 <h3>Sobre mim:</h3>
 <p>Tenho 18 anos de idade e sou recém estudante de programação, inicialmente comecei a programar DESKTOP e fiz meu primeiro CRUD, tenho um bom conhecimento da linguagem <b>SQL</b>, atualmente estou estudando <b>HTML, CSS, JAVASCRIPT E PHP.</b></p>
 
-<div  "style="display: inline_block"></br>
+<div  "style="display: inline_block" align="center"></br>
 
 <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="center" alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -26,8 +26,8 @@
 
 <div align="center">
  <a href="https://github.com/DaniloFerroAlves">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DaniloFerroAlves&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>  
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloFerroAlves&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=DaniloFerroAlves&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>  
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloFerroAlves&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117"/>
 </div>
 
 
