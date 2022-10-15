@@ -12,16 +12,6 @@
 <h3>Sobre mim:</h3>
 <p>Tenho 18 anos de idade e sou recém estudante de programação, inicialmente comecei a programar DESKTOP e fiz meu primeiro CRUD, tenho um bom conhecimento da linguagem <b>SQL</b>, atualmente estou estudando <b>HTML, CSS, JAVASCRIPT E PHP.</b></p>
 
-<div  "style="display: inline_block" align="center"></br>
-
-<img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img align="center" alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="center" alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-
-</div>
 <hr>
 
 <div align="center">
