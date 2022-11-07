@@ -29,6 +29,19 @@
   <a href="https://www.instagram.com/dan_danferro/" target="_blank" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div align="center">
+  <a href="https://github.com/DaniloFerroAlves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloFerroAlves&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloFerroAlves&layout=compact&langs_count=7&theme=transparent"/>
+</div>
+
 
 
 
