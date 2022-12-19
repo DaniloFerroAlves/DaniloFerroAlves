@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Prazer, meu nome é Danilo Ferro Alves e tenho 18 anos, no momento estou estudando para virar um programador.
+  Prazer, meu nome é Danilo Ferro Alves e tenho 19 anos, no momento estou estudando para virar um programador.
 </p>
 
 <p align="left">
