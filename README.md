@@ -3,17 +3,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Prazer, meu nome é Danilo Ferro Alves e tenho 19 anos, no momento estou estudando para virar um programador.
+  Prazer, meu nome é Danilo Ferro Alves e tenho 19 anos, no momento estou estudando para virar um programador Fullstack. <br>
+  <h2> Minhas principais ferramentas do momento:</h2> 
+  <ul>
+    <li> Javascript</li>
+    <li> Html</li>
+    <li> Css</li>
+  </ul>
 </p>
 
-<p align="left">
-  💼 Competências: </br></br>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-</p>
+
 
 
 <p align="left">
@@ -31,6 +30,11 @@
 </p>  
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 <br>
 <br>
 <br>
