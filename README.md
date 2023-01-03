@@ -4,7 +4,7 @@
 
 <p align="left"> 
   Prazer, meu nome é Danilo Ferro Alves e tenho 19 anos, no momento estou estudando para virar um programador Fullstack. <br>
-  <h2> Minhas principais ferramentas do momento:</h2> 
+  <h2>principais ferramentas do momento:</h2> 
   <ul>
     <li> Javascript</li>
     <li> Html</li>
