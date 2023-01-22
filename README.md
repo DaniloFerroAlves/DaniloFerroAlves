@@ -4,7 +4,8 @@
 <h1> 🐱‍👓 E ae, Devs 👋🏻 </h1>
 
 ```
-- Prazer, meu nome é Danilo Ferro Alves e tenho 19 anos, no momento estou estudando para virar um programador Fullstack.
+Prazer, meu nome é Danilo Ferro Alves e tenho 19 anos
+no momento estou estudando para virar um programador Fullstack.
 ```
 
 <h2> 📕 Ferramentas/Skills </h2>
