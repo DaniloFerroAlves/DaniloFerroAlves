@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=484848&height=70&&section=header&text=Bem-Vindo!&fontSize=30&animation=twinkling&fontColor=51AABF" />
 
-<a href="https://portfolio-daniloferro.netlify.app/#home"><img align="right" src="https://img.shields.io/badge/Portfólio Web-lightgrey?style=for-the-badge&logo=homeadvisor&labelColor=black&logoColor=white"><a>
+<a href="https://portfolio-daniloferro.netlify.app/#home" target="_blank"><img align="right" src="https://img.shields.io/badge/Portfólio Web-lightgrey?style=for-the-badge&logo=homeadvisor&labelColor=black&logoColor=white"><a>
 <h1> E ae, Devs <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img></h1>
 <div align="left">
 
-<a href="https://www.instagram.com/dan_danferro/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"><a>
- <a href="https://steamcommunity.com/id/Daniloboladao/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"><a><br>
+<a href="https://www.instagram.com/dan_danferro/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"><a>
+ <a href="https://steamcommunity.com/id/Daniloboladao/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"><a><br>
 </div>
 <p>Prazer,  Meu nome é Danilo Ferro Alves e tenho 19 anos de idade. Possuo interesse em criar projetos na internet, especialmente na área de desenvolvimento front-end. Tenho aproximadamente 1 ano de experiência nessa área e busco me envolver cada vez mais, com o objetivo de me tornar um desenvolvedor full-stack.</p>
 
