@@ -1,16 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=484848&height=70&&section=header&text=Bem-Vindo!&fontSize=30&animation=twinkling&fontColor=51AABF" />
 
 <img align="right" src="https://img.shields.io/badge/Portfólio Web-lightgrey?style=for-the-badge&logo=homeadvisor&labelColor=black&logoColor=white">
-<h1> E ae, Devs 🐱‍👓</h1>
+<h1> E ae, Devs <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img></h1>
 
-```
-Prazer, meu nome é Danilo Ferro Alves e tenho 19 anos
-no momento estou estudando para virar um programador Fullstack.
-```
+<p>Prazer, meu nome é Danilo Ferro Alves e tenho 19 anos, no momento estou estudando para virar um programador Fullstack.</p>
 
-<h2> 📕 Ferramentas/Skills </h2>
+<br>
+<h2> 📕 Ferramentas/Skills</h2>
 
-<div align="left">
+<div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -27,7 +25,7 @@ no momento estou estudando para virar um programador Fullstack.
 <br>
 <br>
 <h2>📊 Meus Status do Github</h2>
-<div align="left">
+<div align="center">
   <a href="https://github.com/DaniloFerroAlves">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DaniloFerroAlves&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloFerroAlves&layout=compact&langs_count=7&theme=transparent"/>
