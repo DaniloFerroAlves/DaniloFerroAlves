@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=484848&height=70&&section=header&text=Bem-Vindo!&fontSize=30&animation=twinkling&fontColor=51AABF" />
 
-<img align="right" src="https://img.shields.io/badge/Portfólio Web-lightgrey?style=for-the-badge&logo=homeadvisor&labelColor=black&logoColor=white">
+<a href="https://portfolio-daniloferro.netlify.app/#home"><img align="right" src="https://img.shields.io/badge/Portfólio Web-lightgrey?style=for-the-badge&logo=homeadvisor&labelColor=black&logoColor=white"><a>
 <h1> E ae, Devs <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img></h1>
 <div align="left">
 
