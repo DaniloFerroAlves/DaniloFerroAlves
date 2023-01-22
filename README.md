@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=484848&height=70&&section=header&text=Bem-Vindo!&fontSize=30&animation=twinkling&fontColor=51AABF" />
 
 <img align="right" src="https://img.shields.io/badge/Portfólio Web-lightgrey?style=for-the-badge&logo=homeadvisor&labelColor=black&logoColor=white">
-<h1> 🐱‍👓 E ae, Devs 👋🏻 </h1>
+<h1> E ae, Devs 🐱‍👓</h1>
 
 ```
 Prazer, meu nome é Danilo Ferro Alves e tenho 19 anos
