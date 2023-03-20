@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/dan_danferro/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"><a>
  <a href="https://steamcommunity.com/id/Daniloboladao/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"><a><br>
 </div>
-<p>Prazer,  Meu nome é Danilo Ferro Alves e tenho 19 anos de idade. Possuo interesse em criar projetos na internet, especialmente na área de desenvolvimento front-end. Tenho aproximadamente 1 ano de estudos nessa área e busco me envolver cada vez mais, com o objetivo de me tornar um desenvolvedor full-stack.</p>
+
 
 <br>
 <h2> 📕 Ferramentas/Skills</h2>
