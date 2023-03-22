@@ -25,7 +25,7 @@
  <details align="center">
   <summary>Contato </summary>
   
-  <br>
+ 
   <h3>Onde você pode me encontrar ⤵</h3>
   <hr>
   <p align="center">
