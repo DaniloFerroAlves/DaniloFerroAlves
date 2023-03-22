@@ -1,37 +1,52 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=484848&height=70&&section=header&text=Bem-Vindo!&fontSize=30&animation=twinkling&fontColor=51AABF" />
+<p align="center">
+  <br>
+  <samp>
+    Olá Devs! Eu sou o <b>Danilo</b>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+    <br>Um estudante de programação com foco em virar fullstack.<br>
 
-<a href="https://portfolio-daniloferro.netlify.app/#home" target="_blank"><img align="right" src="https://img.shields.io/badge/Portfólio Web-lightgrey?style=for-the-badge&logo=homeadvisor&labelColor=black&logoColor=white"><a>
-<h1> E ae, Devs <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img></h1>
-<div align="left">
+</samp>
+ 
+ ```javascript
+  class About{
+    constructor(nome, idade, linguagens, ide, hobby) {
+       this.nome = nome
+       this.idade = idade
+       this.linguagens = linguagens
+       this.ide = ide
+       this.hobby = hobby
+    }
+ }
+ 
+ const aboutMe = new About("Danilo", 19, ["JavaScript", "PHP", "CSharp"], "VSCODE", "Jogar jogos online com amigos")
+ 
+ ```
+ <samp>
+<br>
+ <details align="center">
+  <summary>Contato </summary>
+  
+  <br>
+  <h3>Onde você pode me encontrar ⤵</h3>
+  <hr>
+  <p align="center">
+  Discord: 𝚍𝚊𝚗#9599 | <a href="https://www.instagram.com/dan_danferro/">Instagram</a> | <a href="https://steamcommunity.com/id/Daniloboladao/">Steam</a>
+ </p>
+  <hr>
+  </details>
 
-<a href="https://www.instagram.com/dan_danferro/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"><a>
- <a href="https://steamcommunity.com/id/Daniloboladao/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"><a><br>
-</div>
-
-
-<br>
-<h2> 📕 Ferramentas/Skills</h2>
-<br>
-<div align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</div>
-
-<br>
-<br>
-<h2>📊 Meus Status do Github</h2>
-<br>
-<div align="center">
+  <details align="center">
+   <summary>Github Status</summary>
+   <div align="center"><br>
   <a href="https://github.com/DaniloFerroAlves">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DaniloFerroAlves&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloFerroAlves&layout=compact&langs_count=7&theme=transparent"/>
 </div>
+    </details>
+   <br>
+
+   
+ <p align="right">Made with ❤️ by aboutMe.nome</p>
+
 
 
 
