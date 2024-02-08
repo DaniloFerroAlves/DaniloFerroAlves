@@ -1,51 +1,40 @@
-<p align="center">
-  <br>
-  <samp>
-    Olá Devs! Eu sou o <b>Danilo</b>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-    <br>Um estudante de programação com foco em virar fullstack.<br>
-
-</samp>
- 
- ```javascript
-  class About{
-    constructor(nome, idade, linguagens, ide, hobby) {
-       this.nome = nome
-       this.idade = idade
-       this.linguagens = linguagens
-       this.ide = ide
-       this.hobby = hobby
-    }
- }
- 
- const aboutMe = new About("Danilo", 19, ["JavaScript", "PHP", "CSharp"], "VSCODE", "Jogar jogos online com amigos")
- 
- ```
- <samp>
-<br>
- <details align="center">
-  <summary>Contato </summary>
+<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> E ae <𝚍𝚎𝚟𝚜/> </h1>
   
+
+
+<p>Obrigado por visitar meu perfil, sinta-se a vontade ☕ </p>
+
+<div align="right"> 
+
+<p> <a href="https://www.linkedin.com/in/danilo-ferro-alves-900099230/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/dan_danferro/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
  
-  <h3>Onde você pode me encontrar ⤵</h3>
-  <hr>
-  <p align="center">
-  Discord: 𝚍𝚊𝚗#9599 | <a href="https://www.instagram.com/dan_danferro/">Instagram</a> | <a href="https://steamcommunity.com/id/Daniloboladao/">Steam</a>
- </p>
-  <hr>
-  </details>
-
-  <details align="center">
-   <summary>Github Status</summary>
-   <div align="center"><br>
-  <a href="https://github.com/DaniloFerroAlves">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DaniloFerroAlves&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloFerroAlves&layout=compact&langs_count=7&theme=transparent"/>
 </div>
-    </details>
-   <br>
 
-   
- <p align="right">Made with ❤️ by aboutMe.nome</p>
+
+
+- 👨‍💻 Todos os meus projetos estão disponíveis <a href="https://github.com/DaniloFerroAlves?tab=repositories">Aqui </a>
+
+- 📫 Também, você pode me enviar um email **danilaoferraoalves@gmail.com**
+
+-  Sinta-se a vontade para me chamar no [Discord](https://discord.com/users/254642318257160192)  também!
+
+---
+
+Happy Coding! 🚀
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
