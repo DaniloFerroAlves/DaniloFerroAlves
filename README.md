@@ -15,7 +15,7 @@
 
 
 - 👨‍💻 Todos os meus projetos estão disponíveis <a href="https://github.com/DaniloFerroAlves?tab=repositories">Aqui </a>
-
+- 🤓 Atualmente estudando React
 - 📫 Também, você pode me enviar um email **danilaoferraoalves@gmail.com**
 
 -  Sinta-se a vontade para me chamar no [Discord](https://discord.com/users/254642318257160192)  também!
